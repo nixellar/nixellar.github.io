@@ -19,7 +19,7 @@ Your address: <XLM-address|NIX-address>
 Extra information: <Everything else.>
 ```
 
-##### Nixellar fee:
-Please see ["/fee"](../../../fees/index).
-##### Nixellar usage:
-Please see ["/services"](../../../services/index).
+##### Nixellar fee: Please see ["/fee"](../../../fees/index).
+##### Nixellar usage: Please see ["/services"](../../../services/index).
+<li>Nixellar "<a href="tos">Terms of Service</a>".</li><br>
+<li>Our non-intrusive user-friendly "<a href="privacy">Privacy Policy</a>".</li>
