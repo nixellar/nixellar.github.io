@@ -12,16 +12,16 @@ This means, you can change your "NIX" into a "Stellar Asset" an trade it effortl
 Open a fresh issue on "github.com/nixellar/requests/issues" to begin the swap procedure.
 Alternatively, you can also e-Mail us on "nixellar" at "protonmail" dot "com" with your request.
 
-Fill in the issue template or the e-Mail as follows::
-(A "|" means 'or'. A "<>" needs to be replaced by your desired value.)
+Fill in the issue template or the e-Mail as follows:
 ```
-Desired asset:<XLM|NIX>
-Your address:<XLM-address|NIX-address>
+Desired asset: <XLM|NIX>
+Your address: <XLM-address|NIX-address>
 Extra information: <Everything else.>
 ```
 
 Nixellar fee:
 Please see ["/fee"](../../../fees/index).
-
+Nixellar requests:
+Please use ["/requests"](https://github.com/nixellar/requests/issues) or [send](mailto:nixellar@protonmail.com) us an e-Mail.
 Nixellar usage:
 Please see ["/services"](../../../services/index).
