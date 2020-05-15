@@ -22,3 +22,6 @@ Extra information: <Everything else.>
 
 Nixellar fee:
 Please see ["/fee"](../../../fees/index).
+
+Nixellar usage:
+Please see ["/services"](../../../services/index).
