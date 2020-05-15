@@ -19,9 +19,9 @@ Your address: <XLM-address|NIX-address>
 Extra information: <Everything else.>
 ```
 
-Nixellar fee:
+##### Nixellar fee:
 Please see ["/fee"](../../../fees/index).
-Nixellar requests:
+##### Nixellar requests:
 Please use ["/requests"](https://github.com/nixellar/requests/issues) or [send](mailto:nixellar@protonmail.com) us an e-Mail.
-Nixellar usage:
+##### Nixellar usage:
 Please see ["/services"](../../../services/index).
