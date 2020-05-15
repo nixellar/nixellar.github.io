@@ -10,7 +10,7 @@ This means, you can change your "NIX" into a "Stellar Asset" an trade it effortl
 ## How to:
 
 Open a [fresh issue](https://github.com/nixellar/requests/issues/new) on "github.com/nixellar/requests/issues" to begin the swap procedure.
-Alternatively, you can also e-Mail us on "nixellar" at "protonmail" dot "com" with your request.
+Alternatively, you can also [e-Mail](mailto:nixellar@protonmail.com) us on "nixellar" at "protonmail" dot "com" with your request.
 
 Fill in the issue template or the e-Mail as follows:
 ```
@@ -21,7 +21,5 @@ Extra information: <Everything else.>
 
 ##### Nixellar fee:
 Please see ["/fee"](../../../fees/index).
-##### Nixellar requests:
-Please use ["/requests"](https://github.com/nixellar/requests/issues) or [send](mailto:nixellar@protonmail.com) us an e-Mail.
 ##### Nixellar usage:
 Please see ["/services"](../../../services/index).
