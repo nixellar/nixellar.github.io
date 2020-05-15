@@ -21,4 +21,4 @@ Extra information: <Everything else.>
 ```
 
 Nixellar fee:
-Please see ["/fee"](/fees/index).
+Please see ["/fee"](nixellar.github.io/fees/index).
