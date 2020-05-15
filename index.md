@@ -9,7 +9,7 @@ This means, you can change your "NIX" into a "Stellar Asset" an trade it effortl
 
 ## How to:
 
-Open a fresh issue on "github.com/nixellar/requests/issues" to begin the swap procedure.
+Open a [fresh issue](github.com/nixellar/requests/issues/new) on "github.com/nixellar/requests/issues" to begin the swap procedure.
 Alternatively, you can also e-Mail us on "nixellar" at "protonmail" dot "com" with your request.
 
 Fill in the issue template or the e-Mail as follows:
