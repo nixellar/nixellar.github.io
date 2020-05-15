@@ -49,6 +49,6 @@ Alternatively, you can also e-Mail us on "nixellar" at "protonmail" dot "com" wi
 <li><a href="../guides/TypeE_Route3">Type E - Route 3 guide</a>.</li>
 <li><a href="../guides/TypeF">Type F guide</a>.</li></ul>
 </li>
-<li>Fees <a href="../fees/index">structures</a>.</li><br>
-<li>Nixellar "<a href="tos">Terms of Service</a>".</li><br>
+<li>Fees <a href="../fees/index">structures</a>.</li>
+<li>Nixellar "<a href="tos">Terms of Service</a>".</li>
 <li>Our non-intrusive user-friendly "<a href="privacy">Privacy Policy</a>".</li>
